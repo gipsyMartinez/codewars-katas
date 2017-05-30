@@ -1,7 +1,7 @@
 # codewars-katas
 
 
-This repository aims to document my progress solving code challenges from codewars.com. I'll make those Katas mostly in ruby and I'll try to solve a kata a day. :)
+code challenges from codewars.com
 
 Notes:
 - Challenges are located into src folder
@@ -23,6 +23,7 @@ Ruby
 10. Selective Array Reversing.  Algorithms, Arrays, Numbers. (Rspec)
 11. Who likes it?  Algorithms, Formatting, String. (Test Unit)
 12. Array.diff. Fundamentals, Arrays. (Rspec)
+13. Decode the Morse code. Algorithms. (Rspec)
 
 
 
