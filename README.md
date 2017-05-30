@@ -23,6 +23,7 @@ Ruby
 10. Selective Array Reversing.  Algorithms, Arrays, Numbers. (Rspec)
 11. Who likes it?  Algorithms, Formatting, String. (Test Unit)
 12. Array.diff. Fundamentals, Arrays. (Rspec)
+13. Decode the Morse code. Algorithms. (Rspec)
 
 
 

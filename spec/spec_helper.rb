@@ -17,6 +17,7 @@ require_relative '../src/persistent_bugger'
 require_relative '../src/flatten_and_sort_array'
 require_relative '../src/selective_array_reversing'
 require_relative '../src/array_diff'
+require_relative '../src/decode_morse_code'
 # The `.rspec` file also contains a few flags that are not defaults but that
 # users commonly want.
 #
